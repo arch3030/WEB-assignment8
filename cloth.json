@@ -1,0 +1,57 @@
+{
+	"top1":
+	{
+		"brandname": "A.K.O.O Clothing",
+		"price":"200",
+		"pic":"top1.jpg"
+	},
+	"top2":
+	{
+		"brandname": "B.K.T Clothing",
+		"price":"500",
+		"pic":"top2.jpg"
+	},
+	"top3":
+	{
+		"brandname": "T.R.D Clothing",
+		"price":"300",
+		"pic":"top3.jpg"
+	},
+	"top4":
+	{
+		"brandname": "F.W.B Clothing",
+		"price":"400",
+		"pic":"top4.jpg"
+	},
+	"top5":
+	{
+		"brandname": "F.V.B Clothing",
+		"price":"550",
+		"pic":"top5.jpg"
+	},
+	"top6":
+	{
+		"brandname": "C.W.S Clothing",
+		"price":"600",
+		"pic":"top6.jpg"
+	},
+	"top7":
+	{
+		"brandname": "S.Z.J Clothing",
+		"price":"700",
+		"pic":"top7.jpg"
+	},
+	"top8":
+	{
+		"brandname": "E.Y.M Clothing",
+		"price":"800",
+		"pic":"top8.jpg"
+	},
+	"top9":
+	{
+		"brandname": "N.S.P Clothing",
+		"price":"900",
+		"pic":"top9.jpg"
+	}
+
+}
